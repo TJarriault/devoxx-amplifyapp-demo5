@@ -1,5 +1,7 @@
 {
   "features": {
+    "graphqltransformer": {
+    },
     "frontend-ios": {
       "enablexcodeintegration": true
     },
